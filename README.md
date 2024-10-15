@@ -3,9 +3,9 @@
 
   
   <div align="centre">
-<img width="45%" align="left" src="https://streak-stats.demolab.com/?user=semai-mohamed&theme=radical&hide_border=false" alt="Semai-Mohamed's GitHub Streak" />
+<img width="48%" align="left" src="https://streak-stats.demolab.com/?user=semai-mohamed&theme=radical&hide_border=false" alt="Semai-Mohamed's GitHub Streak" />
 
-<img width="45%"  align="right" src="https://github-readme-stats.vercel.app/api?username=semai-mohamed&show_icons=true&theme=radical&count_private=true&hide_border=false" alt="Semai-Mohamed's GitHub Stats" />
+<img width="48%"  align="right" src="https://github-readme-stats.vercel.app/api?username=semai-mohamed&show_icons=true&theme=radical&count_private=true&hide_border=false" alt="Semai-Mohamed's GitHub Stats" />
 
 
    </div>
@@ -100,7 +100,5 @@
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=semai-mohamed&layout=compact&theme=radical&langs_count=6" alt="Most Used Languages" />
 
 </div>
-<div align="center">
-   ![GitHub Contribution Snake](https://github.com/semai-mohamed/semai-mohamed/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 
