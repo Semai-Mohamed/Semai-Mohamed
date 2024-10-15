@@ -70,3 +70,15 @@
 </div>
 
 ###
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  
+  
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=semai-mohamed&layout=compact&theme=radical&langs_count=6)
+
+  
+</div>
+<div align="center">
+    
+  ![Semai-Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=semai-mohamed&show_icons=true&theme=radical&count_private=true)
+  
+</div>
