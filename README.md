@@ -97,7 +97,7 @@
 
 ###
 <div align = "centre">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=semai-mohamed&layout=compact&theme=radical&langs_count=6" alt="Most Used Languages" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=semai-mohamed&layout=compact&theme=radical&langs_count=9" alt="Most Used Languages" />
 
 </div>
 
