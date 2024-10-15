@@ -1,5 +1,29 @@
 <h2 align="left">Hi 👋! I'm Semai-Mohamed, a Computer Science student with a passion for programming</h2>
 
+
+  
+  <div align="centre">
+<img align="left" src="https://streak-stats.demolab.com/?user=semai-mohamed&theme=radical&hide_border=true" alt="Semai-Mohamed's GitHub Streak">
+ 
+  <img align = "right"  src="https://github-readme-stats.vercel.app/api?username=semai-mohamed&show_icons=true&theme=radical&count_private=true" alt="Semai-Mohamed's GitHub Stats" />
+   </div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+  
+
+  
+
+
 ###
 
 <img align="right" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejgzZjBueDY4dnhvcmx2bTJucHhsNGJzeDltdTZoZHRhemUzY2R3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif"  />
@@ -70,15 +94,9 @@
 </div>
 
 ###
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  
-  
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=semai-mohamed&layout=compact&theme=radical&langs_count=6)
+<div align = "centre">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=semai-mohamed&layout=compact&theme=radical&langs_count=6" alt="Most Used Languages" />
 
-  
 </div>
-<div align="center">
-    
-  ![Semai-Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=semai-mohamed&show_icons=true&theme=radical&count_private=true)
-  
-</div>
+
+
