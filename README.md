@@ -3,9 +3,9 @@
 
   
   <div align="centre">
-<img width="45%" align="left" src="https://streak-stats.demolab.com/?user=semai-mohamed&theme=radical&hide_border=true" alt="Semai-Mohamed's GitHub Streak" />
+<img width="45%" align="left" src="https://streak-stats.demolab.com/?user=semai-mohamed&theme=radical&hide_border=false" alt="Semai-Mohammed's GitHub Streak" />
 
-<img width="45%"  align="right" src="https://github-readme-stats.vercel.app/api?username=semai-mohamed&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Semai-Mohamed's GitHub Stats" />
+<img width="45%"  align="right" src="https://github-readme-stats.vercel.app/api?username=semai-mohamed&show_icons=true&theme=radical&count_private=true&hide_border=false" alt="Semai-Mohammed's GitHub Stats" />
 
 
    </div>
