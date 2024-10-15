@@ -100,5 +100,7 @@
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=semai-mohamed&layout=compact&theme=radical&langs_count=6" alt="Most Used Languages" />
 
 </div>
-
+<div align="center">
+   ![GitHub Contribution Snake](https://github.com/semai-mohamed/semai-mohamed/blob/output/github-contribution-grid-snake.svg)
+</div>
 
