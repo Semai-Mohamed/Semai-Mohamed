@@ -100,5 +100,9 @@
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=semai-mohamed&layout=compact&theme=radical&langs_count=9" alt="Most Used Languages" />
 
 </div>
+<!-- <h2 align="left"></h2>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=semai-mohamed&color=red" alt="Profile views"/>
+</div> -->
 
 
