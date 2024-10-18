@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Semai-Mohamed, a Computer Science student with a passion for programming</h2>
+ <h2 align="left">Hi 👋! I'm Semai-Mohamed, a Computer Science student with a passion for programming</h2>
 
 
   
