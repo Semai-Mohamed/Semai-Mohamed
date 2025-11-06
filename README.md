@@ -4,9 +4,9 @@
 
   
   <div align="centre">
-<img width="45%" align="left" src="https://streak-stats.demolab.com/?user=semai-mohamed&hide_border=false" alt="Semai-Mohammed's GitHub Streak" />
+<img width="45%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=semai-mohamed&theme=vue-dark&hide_border=true" alt="Semai-Mohammed's GitHub Streak" />
 
-<img width="45%"  align="right" src="https://github-readme-stats.vercel.app/api?username=semai-mohamed&show_icons=true&hide_border=false&count_private=true" alt="Semai-Mohammed' GitHub Stats" />
+<img width="45%"  align="right" src="https://github-readme-stats.vercel.app/api?username=Semai-Mohamed&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Semai-Mohammed' GitHub Stats" />
 
 
    </div>
