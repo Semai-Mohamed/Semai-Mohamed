@@ -1,121 +1,62 @@
- <h2 align="left">Hi 👋! I'm Semai-Mohamed, a Computer Science student with a passion for programming</h2>
+<h2 align="center">Hi, I'm Semai Mohammed</h2>
 
-   
+<h3 align='left'>Full Stack Developer</h3>
 
-  
-  <div align="centre">
-<img width="45%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=semai-mohamed&theme=vue-dark&hide_border=true" alt="Semai-Mohammed's GitHub Streak" />
-
-<img width="45%"  align="right" src="https://github-readme-stats.vercel.app/api?username=Semai-Mohamed&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Semai-Mohammed' GitHub Stats" />
-
-
-   </div>
-
-<br>
-<br> 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<hp align="left">
+Currently learning <strong>React Native</strong>.
+ 
+</h4>
 
 
-  
 
-  
-
-
-###
-
-<img align="right" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejgzZjBueDY4dnhvcmx2bTJucHhsNGJzeDltdTZoZHRhemUzY2R3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif"  />
-
-###
+####  Tech Stack : 
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="35" />
+<img src="https://skillicons.dev/icons?i=nestjs" height="35" />
+<img src="https://skillicons.dev/icons?i=postgres" height="35" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="35" />
+<img src="https://skillicons.dev/icons?i=redis" height="35" />
+<img src="https://logo.svgcdn.com/l/socket.io.svg" height="35" alt="Socket.IO logo"/>
+<img src="https://skillicons.dev/icons?i=python" height="35" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="35" />
+<img src="https://skillicons.dev/icons?i=git" height="35" />
+<img src="https://skillicons.dev/icons?i=linux" height="35" />
+<img src="https://skillicons.dev/icons?i=redux" height="35" />
+<img src="https://skillicons.dev/icons?i=typescript" height="35" />
+<img src="https://skillicons.dev/icons?i=js" height="35" />
+<img src="https://skillicons.dev/icons?i=react" height="35" />
+
+  <br>
 </div>
 
-###
+---
 
-<div align="left">
- <a href="https://www.instagram.com/semai_mohammed" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-</a>
-
-<a href="https://discord.com/users/428983334417203201" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-</a>
-
-<a href="mailto:semaimohamed860@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-</a>
-
-<a href="https://www.linkedin.com/in/mohamed-semai-097567333/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</a>
-
-</div>
-
-###
-<!--
-<div align = "centre">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=semai-mohamed&layout=compact&langs_count=10&theme=radical" alt="Most Used Languages" />
-
-</div>
--->
-<!-- <h2 align="left"></h2>
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=semai-mohamed&color=red" alt="Profile views"/>
-</div> -->
+  <img width="45%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=semai-mohamed&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+  <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=Semai-Mohamed&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
 
+<br><br><br><br><br><br><br><br>
 
+---
+
+<!-- <img align="right" height="230" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejgzZjBueDY4dnhvcmx2bTJucHhsNGJzeDltdTZoZHRhemUzY2R3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" /> -->
+
+<img align='center' src = "https://github-readme-activity-graph.vercel.app/graph?username=Semai-Mohamed&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true">
+
+### 🌐 Connect with me
+<div align="left">
+ <a href="https://www.instagram.com/semai_mohammed" >
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="35" />
+</a>
+<a href="https://discord.com/users/428983334417203201" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="35" />
+</a>
+<a href="mailto:semaimohamed860@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" />
+</a>
+<a href="https://www.linkedin.com/in/mohamed-semai-097567333/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" />
+</a>
+</div>
