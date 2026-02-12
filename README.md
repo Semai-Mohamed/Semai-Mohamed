@@ -40,11 +40,11 @@ Currently learning <strong>React Native</strong>.
 
 ---
 
-####  PRs & Community
+####  PRs & Issues
 
 <div align="center">
   <img width="45%" align="left" src="https://github-readme-stats-eight-psi-10.vercel.app/api/card?user=Semai-Mohamed&type=prs&color=dark" alt="Pull Requests" />
-  <img width="45%" align="right" src="https://github-readme-stats-eight-psi-10.vercel.app/api/card?user=Semai-Mohamed&type=views&color=dark" alt="Followers" />
+  <img width="45%" align="right" src="https://github-readme-stats-eight-psi-10.vercel.app//api/card?user=Semai-Mohamed&type=issues&color=dark" alt="Issues" />
 </div>
 
 <br><br><br><br><br><br><br><br>
