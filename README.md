@@ -3,7 +3,7 @@
 <h3 align="left">Full Stack Developer</h3>
 
 <p align="left">
-Currently learning <strong>React Native</strong>.
+<!-- Currently learning <strong>React Native</strong>. -->
 </p>
 
 #### Tech Stack :
