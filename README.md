@@ -1,57 +1,78 @@
-<h2 align="center">Hi 👋, I'm Semai Mohammed</h2>
 
-<h3 align="left">Full Stack Developer</h3>
+<h3 align="center">Software Developer</h3>
 
-<p align="left">
-<!-- Currently learning <strong>React Native</strong>. -->
+<p align="center">
+  Passionate about building scalable applications 
 </p>
 
-#### Tech Stack :
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="35" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="35" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="35" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="35" />
-  <img src="https://skillicons.dev/icons?i=redis" height="35" />
-  <img src="https://logo.svgcdn.com/l/socket.io.svg" height="35" alt="Socket.IO logo"/>
-  <img src="https://skillicons.dev/icons?i=python" height="35" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="35" />
-  <img src="https://skillicons.dev/icons?i=git" height="35" />
-  <img src="https://skillicons.dev/icons?i=linux" height="35" />
-  <img src="https://skillicons.dev/icons?i=redux" height="35" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="35" />
-  <img src="https://skillicons.dev/icons?i=js" height="35" />
-  <img src="https://skillicons.dev/icons?i=react" height="35" />
-</div>
-
 ---
 
-###  GitHub Stats
+### Tech Stack & Skills
 
-####  Commits & Stars
+**Programming Languages**  
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+</p>
 
-<div align="center">
-  <img width="45%" align="left" src="https://github-readme-stats-eight-psi-10.vercel.app/api/card?user=Semai-Mohamed&type=commits&color=dark" alt="Commits" />
-  <img width="45%" align="right" src="https://github-readme-stats-eight-psi-10.vercel.app/api/card?user=Semai-Mohamed&type=stars&color=dark" alt="Stars" />
-</div>
+**Frontend**  
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/Toast-FF6600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white" />
+</p>
 
-<br><br><br><br><br><br><br><br>
+**Backend & APIs**  
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supertest-000000?style=for-the-badge" />
+</p>
+
+**Databases**  
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+**AI & Data Science**  
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF9900?style=for-the-badge" />
+</p>
+
+**Tools**  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
-
-####  PRs & Issues
-
-<div align="center">
-  <img width="45%" align="left" src="https://github-readme-stats-eight-psi-10.vercel.app/api/card?user=Semai-Mohamed&type=prs&color=dark" alt="Pull Requests" />
-  <img width="45%" align="right" src="https://github-readme-stats-eight-psi-10.vercel.app//api/card?user=Semai-Mohamed&type=issues&color=dark" alt="Issues" />
-</div>
-
-<br><br><br><br><br><br><br><br>
-
----
-
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Semai-Mohamed&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" />
 
 ### Connect with me
 <div align="left">
